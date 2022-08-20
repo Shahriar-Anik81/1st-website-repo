@@ -43,3 +43,25 @@ div {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.a img {
+    width: 100%;
+}
+
+.b {
+    width: 60%;
+}
+
+.middle-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.c {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: whitesmoke;
+    padding: 20px 25px;
+    border-radius: 10%;
+}
